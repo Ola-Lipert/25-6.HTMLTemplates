@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #ffcccc;
+    text-align: center;
+    color: #3d3d3d;
+
+}
+
+button {
+    background-color: #ffb8b8;
+    border: 1px solid #4b4b4b;
+    font-size: 20px; 
+    padding: 5px;
+
+}
+
+button:hover {
+    background-color: #ffcccc;
+    border: 1px solid #4b4b4b;
+
+}

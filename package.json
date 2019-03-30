@@ -1,0 +1,25 @@
+{
+  "name": "25-6.htmltemplates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ola-Lipert/25-6.HTMLTemplates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ola-Lipert/25-6.HTMLTemplates/issues"
+  },
+  "homepage": "https://github.com/Ola-Lipert/25-6.HTMLTemplates#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}

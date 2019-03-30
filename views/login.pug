@@ -1,0 +1,16 @@
+doctype html
+html
+    head
+        title=title
+        style
+            include style.css
+    body
+        h1.mainHeader=title
+    
+    form(action=url)
+        p.firstName First Name:
+            input(type='text', name='first_name')
+        p.lastName Last Name:
+            input(type='text', name='last_name')
+        button(type='submit') Sign In
+    
